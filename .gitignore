@@ -1,0 +1,30 @@
+# Build artifacts
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+build/
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# KiCad backups & autosave
+*-backups/
+*.bak
+_autosave-*
+fp-info-cache
+*.kicad_prl
+
+# KiCad project lock
+*.lck
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log

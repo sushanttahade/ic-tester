@@ -1,2 +1,3 @@
-# ic-tester
-ESP32-based multifunctional IC tester + digital multimeter (voltage, resistance, current, capacitance, continuity, digital/linear IC testing)
+# KiCad hardware files
+
+Schematic and PCB layout go here as the standalone-board design progresses (current prototype is breadboard/Zero PCB — see docs/images/prototype.jpg).
